@@ -1,26 +1,2 @@
-mes,pais,porcentaje
-Enero,Emiratos Árabes,40.0
-Enero,Tailandea,40.0
-Enero,A1,20.0
-Febrero,Tailandea,50.0
-Febrero,Alemania,50.0
-Diciembre,Alemania,25.0
-Diciembre,Tailandea,50.0
-Diciembre,Singapur,25.0
-Noviembre,Emiratos Árabes,33.33
-Noviembre,Alemania,33.33
-Noviembre,Tailandea,33.33
-Junio,Tailandea,50.0
-Junio,Indonesia,50.0
-Octubre,Alemania,No alcanzo el %20
-Octubre,Tailandea,No alcanzo el %20
-Octubre,Brasil,No alcanzo el %20
-Octubre,Canada,No alcanzo el %20
-Octubre,Español,42.86
-julio,Tailandea,50.0
-julio,Japon,25.0
-julio,México,25.0
-Septiembre,Emiratos Árabes,50.0
-Septiembre,México,50.0
-Marzo,Español,50.0
-Marzo,México,50.0
+Mes, País, porcentaje  0
+3
