@@ -1,29 +1,26 @@
 mes,pais,porcentaje
-01,A61234,40.0
-01,HS1111,40.0
-01,A1111,20.0
-02,HS0001,50.0
-02,D9999,50.0
-12,D9999,25.0
-12,HS0001,25.0
-12,9V999,25.0
-12,HS1111,25.0
-11,A61234,33.33
-11,D9999,33.33
-11,HS0001,33.33
-06,HS0001,50.0
-06,PK1111,50.0
-10,D9999,No alcanza el %20
-10,HS1111,No alcanza el %20
-10,PP1234,No alcanza el %20
-10,CF0001,No alcanza el %20
-10,EN999,No alcanza el %20
-10,EN1111,28.57
-07,HS1111,25.0
-07,HS0001,25.0
-07,JA1111,25.0
-07,XA1111,25.0
-09,A61234,50.0
-09,XA61234,50.0
-03,EN1111,50.0
-03,XA1111,50.0
+Enero,Emiratos Árabes,40.0
+Enero,Tailandea,40.0
+Enero,A1,20.0
+Febrero,Tailandea,50.0
+Febrero,Alemania,50.0
+Diciembre,Alemania,25.0
+Diciembre,Tailandea,50.0
+Diciembre,Singapur,25.0
+Noviembre,Emiratos Árabes,33.33
+Noviembre,Alemania,33.33
+Noviembre,Tailandea,33.33
+Junio,Tailandea,50.0
+Junio,Indonesia,50.0
+Octubre,Alemania,No alcanzo el %20
+Octubre,Tailandea,No alcanzo el %20
+Octubre,Brasil,No alcanzo el %20
+Octubre,Canada,No alcanzo el %20
+Octubre,Español,42.86
+julio,Tailandea,50.0
+julio,Japon,25.0
+julio,México,25.0
+Septiembre,Emiratos Árabes,50.0
+Septiembre,México,50.0
+Marzo,Español,50.0
+Marzo,México,50.0
